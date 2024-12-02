@@ -5,16 +5,16 @@
 * 주의 : Flutter 프로젝트는 **프로젝트 폴더**를 업로드합니다.
 
 '''
-AIFFEL_quest_cr
-├── Exploration
-│   └── README.md
-├── Fluttet
-│   └── README.md
-├── MainQuest
-│   └── README.md
-├── Python
-│   └── README.md
-└── README.md
+AIFFEL_quest_cr  
+├── Exploration  
+│   └── README.md  
+├── Fluttet  
+│   └── README.md  
+├── MainQuest  
+│   └── README.md  
+├── Python  
+│   └── README.md  
+└── README.md  
 '''
 
 
