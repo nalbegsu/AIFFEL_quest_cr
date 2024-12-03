@@ -1,5 +1,4 @@
 '''bash
-
 ├──AIFFEL_quest_cr
 ├── Exploration
 │   ├── README.md
@@ -70,4 +69,3 @@
 │       └── README.md
 └── README.md
 '''
-
