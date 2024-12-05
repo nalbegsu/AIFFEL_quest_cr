@@ -69,5 +69,3 @@
 │       └── README.md
 └── README.md
 '''
-
-<img src="README.png">
